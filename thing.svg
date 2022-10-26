@@ -9,7 +9,6 @@
                 @keyframes myanimation {
                     from { color: crimson; }
                     to { color: cornflowerblue; }
-                    to { color: crimson; }
                 }
             </style>
             <h1>Hello, World!</h1>
