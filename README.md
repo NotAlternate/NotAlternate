@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="thing.svg">
+    <img src="heading.svg" alt="well hello there, i guess this didnt work for you."><br>
 </div>
