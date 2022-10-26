@@ -2,16 +2,30 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                h1 {
-                    color: red;
-                    animation: myanimation 2s infinite;
+                @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
+                div {
+                    font-family: "Source Sans Pro";
+                    background-color: #FEFBF6;
+                    line-height: 1.7;
+                    font-size: 20px;
+                    color: #3D3C42;
                 }
-                @keyframes myanimation {
-                    from { color: crimson; }
-                    to { color: cornflowerblue; }
+                div a {
+                    text-decoration: none;
+                    color: #7F5283;
+                    transition: 0.2s;
+                } div a:hover {
+                    color: #7F5283;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                }
+                .ul {
+                    border-bottom: 2px solid #7F5283;
                 }
             </style>
-            <h1>Hello, World!</h1>
+            Hello, World!<br>
+            <span class="ul">Test underline.</span><br>
+            <a href="#">Test link</a>
         </div>
     </foreignObject>
 </svg>
