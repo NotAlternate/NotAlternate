@@ -5,10 +5,9 @@
                 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
                 div {
                     font-family: "Source Sans Pro";
-                    background-color: #FEFBF6;
                     line-height: 1.7;
                     font-size: 20px;
-                    color: #3D3C42;
+                    color: #FEFBF6;
                 }
                 div a {
                     text-decoration: none;
