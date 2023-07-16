@@ -1,3 +1,3 @@
 <p align="center">
-    ノトアテネト（NotAlternate）、本職のアホ人
+    ノトアテネト（NotAlternate）、プロのアホ人
 </p>
